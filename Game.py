@@ -2,7 +2,7 @@ import pygame
 import random
 import os
 import json
-from transformers import pipeline
+
 
 
 # Initialize Pygame
